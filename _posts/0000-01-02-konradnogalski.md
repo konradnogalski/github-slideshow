@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+> Use your significant strengths to increase job satisfaction
 Use the left arrow to go back!
